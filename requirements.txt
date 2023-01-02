@@ -1,0 +1,8 @@
+matplotlib==3.5.2
+nmap==0.0.1
+numpy==1.23.1
+ping3==4.0.3
+python_nmap==0.7.1
+scikit_learn==1.2.0
+SQLAlchemy==1.4.40
+tcp_latency==0.0.12
